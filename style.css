@@ -1,0 +1,27 @@
+body{
+    background: rgb(13, 116, 185);
+    font: normal 20pt Arial; 
+}
+header{
+    color: white;
+    text-align: center;
+    font: normal 16pt Arial;
+}
+.content{
+    background: white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    margin-top: 34px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+.input {
+    text-align: center;
+    margin-top: 8px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
